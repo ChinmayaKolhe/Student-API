@@ -7,10 +7,9 @@ This is a simple RESTful API built with **Node.js** and **Express** that perform
 ## 📁 Project Structure
 
 project/
-# │
-# ├── index.js 
-# ├── package.json 
-# ├── package-lock.json
+- ├── index.js 
+- ├── package.json 
+- ├── package-lock.json
 
 
 ---
